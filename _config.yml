@@ -1,4 +1,4 @@
 auto: true
 server: true
 markdown: kramdown
-theme: jekyll-theme-minimal
+theme: jekyll-theme-minima
